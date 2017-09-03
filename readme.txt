@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 add new user
 change username and email
 creating a new branch is quick and simple.
+now, i am 
